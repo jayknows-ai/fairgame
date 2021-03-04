@@ -1,10 +1,10 @@
 {
   "asin_groups": 2,
-  "asin_list_1": ["B07JH53M4T"],
-  "reserve_min_1": 10,
-  "reserve_max_1": 15,
-  "asin_list_2": ["B08HR7SV3M"],
-  "reserve_min_2": 15,
-  "reserve_max_2": 20,
+  "asin_list_1": ["B08NW5HNYW", "B08P2H5LW2"],
+  "reserve_min_1": 200,
+  "reserve_max_1": 600,
+  "asin_list_2": ["B08L8KC1J7", "B083Z7TR8Z"],
+  "reserve_min_2": 200,
+  "reserve_max_2": 600,
   "amazon_website": "smile.amazon.com"
 }
